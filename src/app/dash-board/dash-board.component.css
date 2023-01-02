@@ -1,0 +1,7 @@
+div mat-card{
+    margin: 1rem 1.5rem 0px 1.5rem ;
+    padding: 0px;
+}
+div mat-card mat-card-content{
+    padding: 0px;
+}

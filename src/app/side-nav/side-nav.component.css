@@ -1,0 +1,12 @@
+.profile-area{
+    color: rgb(95, 95, 95);
+    margin-top: 1.5rem;
+    text-align: center;
+}
+.profile-area img{
+    width: 9vw;
+    border-radius: 50%;
+}
+a:hover{
+    background-color: rgb(228, 228, 228);
+}

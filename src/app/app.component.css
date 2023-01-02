@@ -1,0 +1,9 @@
+mat-drawer-container{
+    height:89.2vh;
+}
+mat-drawer {
+    width: 16vw;
+}
+app-footer{
+    height: 5vh;
+}

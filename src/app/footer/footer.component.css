@@ -1,0 +1,12 @@
+footer{
+    height: 5vh;
+    text-align: center;
+    padding-top: 1rem;
+    width:100%;
+    height: 5vh;
+    margin-bottom: 0px;
+}
+mat-toolbar{
+    height: 7.5vh;
+    margin-bottom: 0px;
+}
